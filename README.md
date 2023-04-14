@@ -1,8 +1,8 @@
-# budgetcalculator
+
 
 # Budget Calculator
 
-#Development guide
+# Development guide
 Original project topic: The program can add up different travel costs and other expenses related to the trip.
 Program and object class:
 
@@ -17,7 +17,7 @@ Program and object class:
 * Classes for reading from and writing to a file.
 * The class has the following fields, and the following types of methods have been used to update expenses, create fields, read from a file, open the saved file, and finally update the remaining budget.
 
-#Program structure:
+# Program structure:
 
 Instructions for using and installing the program:
 JavaFX program
@@ -29,7 +29,7 @@ To use the modified object class, add the desired expenses to the program and se
 
 If there is anything that is unclear about the use or development of the program, it may be helpful to consult the Javadoc documentation, object class doc, and javafxdoc folders, which contain detailed descriptions of the program's functions and uses.
 
-#Compiling the program
+# Compiling the program
 
 The project includes a file called BudjettiLaskuri.java, which can be compiled for execution with the command if the JDK (Java Development Kit) is installed:
 
