@@ -19,6 +19,8 @@ Program and object class:
 
 # Program structure:
 
+![image](https://user-images.githubusercontent.com/6617067/232155143-1d05025a-6ffc-4860-a59a-ffe545274fda.png)
+
 Instructions for using and installing the program:
 JavaFX program
 
