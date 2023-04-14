@@ -4,7 +4,7 @@
 
 # Development guide
 Original project topic: The program can add up different travel costs and other expenses related to the trip.
-Program and object class:
+The program and object class include the following:
 
 * Budget field, i.e., how much budget the user has.
 * Selection box so that the user can select how many costs to enter.
@@ -21,8 +21,7 @@ Program and object class:
 
 ![image](https://user-images.githubusercontent.com/6617067/232155143-1d05025a-6ffc-4860-a59a-ffe545274fda.png)
 
-Instructions for using and installing the program:
-JavaFX program
+Instructions for using and installing the JavaFX program:
 
 Extract the zip file of the return to the appropriate directory. Start IntelliJ and open the project.
 Compile and run the program using IntelliJ. You can transfer completed expenses to the program using the "Open" button from the file created by the program. The program works without a file by selecting the amount of expenses and filling in the required fields. Finally, you can create a new file using the "Save" button that you can share with a friend or family member, or use to edit the same information again later.
