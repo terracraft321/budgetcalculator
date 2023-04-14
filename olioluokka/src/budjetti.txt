@@ -1,0 +1,9 @@
+Budjetti: 1000 euroa 
+Kaikki menot: 910 euroa 
+Jäljellä oleva budjetti: 90 euroa 
+Menot luokittain:
+Päivälliset: 200 euroa 
+Kuljetukset: 125 euroa 
+Viihteet: 75 euroa 
+Koditus: 500 euroa 
+Aamupala: 10 euroa 
