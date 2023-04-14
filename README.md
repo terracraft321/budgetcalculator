@@ -41,3 +41,4 @@ This creates the BudjettiLaskuri.class file. Then you can run this file using th
 java BudjettiLaskuri
 
 Use the same procedure for compiling and running the Main.java file.
+ 
